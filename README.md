@@ -1,2 +1,0 @@
-# Adhithyan
-AR3
